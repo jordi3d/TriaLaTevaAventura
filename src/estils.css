@@ -1,0 +1,135 @@
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    background-size: 560px;
+}
+
+.sino {
+    position: absolute;
+    font-weight: bolder;
+}
+
+.br {
+    text-shadow: 0 1px white;
+    font-weight: bolder;
+    color: #b8bec5;
+}
+
+.etiqueta {
+    position: absolute;
+    font-weight: bolder;
+    text-align: center;
+    z-index: 1;
+}
+
+.quadrat {
+    position: absolute;
+    border: 1px solid black;
+    background-color: gray;
+    opacity: 1;
+    z-index: 0;
+}
+
+.rombo {
+    position: absolute;
+    border: 1px solid black;
+    background-color: gray;
+    transform: rotate(45deg);
+    opacity: 1;
+    z-index: 0;
+}
+
+#diagrama-flux {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#nht {
+    left: 73px;
+    top: 141px;
+    width: 108px;
+    height: 50px;
+}
+
+@keyframes example {
+    from {
+        background-color: red;
+    }
+    to {
+        background-color: yellow;
+    }
+}
+
+#funciona {
+    left: 248px;
+    top: 39px;
+    width: 82px;
+    height: 82px;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+#hht {
+    left: 442px;
+    top: 124px;
+    width: 75px;
+    height: 75px;
+}
+
+#burro {
+    left: 237px;
+    top: 195px;
+    width: 105px;
+    height: 47px;
+}
+
+#hsa {
+    left: 88px;
+    top: 242px;
+    width: 75px;
+    height: 75px;
+}
+
+#lhc {
+    left: 237px;
+    top: 326px;
+    width: 105px;
+    height: 47px;
+}
+
+#ah {
+    left: 64px;
+    top: 392px;
+    width: 117px;
+    height: 47px;
+}
+
+#pcaa {
+    left: 247px;
+    top: 430px;
+    width: 85px;
+    height: 85px;
+}
+
+#edp {
+    left: 426px;
+    top: 262px;
+    width: 106px;
+    height: 106px;
+}
+
+#lh {
+    left: 426px;
+    top: 477px;
+    width: 107px;
+    height: 47px;
+}
+
+#np {
+    left: 214px;
+    top: 589px;
+    width: 152px;
+    height: 47px;
+}
