@@ -5,6 +5,7 @@ Exercici Tria la teva aventura...
 ## Tens un problema?
 
 Explicat a classe el diagrama de flux dels problemes... he decidit implementar el diagrama de flux com a representació de l'exercici
+Inicialment, havia anomenat "Brown Dispatcher Flux" a aquest exercici.
 
 ### Estats i animació SVG
 
