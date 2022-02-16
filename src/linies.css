@@ -1,0 +1,10 @@
+#espai {
+    height: 800px;
+    width: 600px;
+}
+
+polyline {
+    fill: none;
+    stroke: black;
+    stroke-width: 3;
+}
