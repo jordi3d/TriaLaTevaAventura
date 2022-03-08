@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TriaLaTevaAventura/static/css/main.54f14baf.css",
-    "main.js": "/TriaLaTevaAventura/static/js/main.9ac00e93.js",
+    "main.js": "/TriaLaTevaAventura/static/js/main.4df9bd03.js",
     "static/js/787.2fe85bd3.chunk.js": "/TriaLaTevaAventura/static/js/787.2fe85bd3.chunk.js",
     "index.html": "/TriaLaTevaAventura/index.html",
     "main.54f14baf.css.map": "/TriaLaTevaAventura/static/css/main.54f14baf.css.map",
-    "main.9ac00e93.js.map": "/TriaLaTevaAventura/static/js/main.9ac00e93.js.map",
+    "main.4df9bd03.js.map": "/TriaLaTevaAventura/static/js/main.4df9bd03.js.map",
     "787.2fe85bd3.chunk.js.map": "/TriaLaTevaAventura/static/js/787.2fe85bd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54f14baf.css",
-    "static/js/main.9ac00e93.js"
+    "static/js/main.4df9bd03.js"
   ]
 }
